@@ -71,6 +71,11 @@ body{
     border-radius: 4px;
     font-size: 18px;
     font-weight: bold;
+    transition: 0.9s;
+}
+
+.call-to-action:hover {
+    transform: scale(1.1);
 }
 
 .main a {
