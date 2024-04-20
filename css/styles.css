@@ -83,3 +83,34 @@ body{
     color: #181818;
 }
 /* FIM MAIN */
+
+
+/* INICIO SOBRE */
+.sobre {
+    background-color: #ffffff;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sobre div {
+    max-width: 50%;
+    padding-right: 40px;
+}
+
+.sobre img {
+    max-width: 450px;
+    border-radius: 8px;
+    padding-left: 10%;
+}
+
+.sobre div h2 {
+    font-size: 32px;
+    margin-bottom: 14px;
+}
+/* FIM SOBRE */
