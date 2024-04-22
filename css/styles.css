@@ -159,5 +159,41 @@ body{
 .projects img:hover {
     opacity: 1;
 }
+
+
+.action {
+    background-color: #181818;
+    border: 0;
+    padding: 12px 28px;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 18px;
+    cursor: pointer;
+}
+
 /* FIM PROJECTS */
+
+
+/* INICIO RODAPÉ */
+footer {
+    width: 100%;
+    background-color: #181818;
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer p {
+    margin-left: 12px;
+}
+/* FIM RODAPÉ */
+
 
