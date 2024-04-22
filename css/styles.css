@@ -9,6 +9,10 @@ body{
     font-family: 'roboto', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 /* INICIO HEADER */
 .nav {
