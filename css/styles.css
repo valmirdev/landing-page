@@ -64,7 +64,7 @@ html {
 
 .main p {
     font-size: 24px;
-    font-style: italic;
+    font-style: roboto;
     color: #1e96fc;
     margin-top: 10px;
     margin-bottom: 35px;
@@ -207,7 +207,7 @@ footer p {
 @media (max-width: 1050px){
     /* INICIO MAIN */
     .main h1 {
-        font-size: 45px;
+        font-size: 35px;
     }
 
     .main p {
