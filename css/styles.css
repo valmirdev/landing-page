@@ -254,6 +254,7 @@ footer p {
     /* INICIO RODAPÉ */
     footer {
         flex-direction: column;
+        padding: 20px 0;
     }
 
     footer h3 {
